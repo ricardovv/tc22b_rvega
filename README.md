@@ -1,17 +1,37 @@
-# tc22b_rvega
+# TECNOLOGÍAS CREATIVAS 2022
+
+Repositorio para la Clase Tecnologías Creativas, UAI, 2022A.
+
+### SESIONES
+
+* CLASES: Lunes 8:30 – 11:20, Sala por confirnar
+
+### EQUIPO
+
+* Ricardo Vega, Diseñador, Artista: rivegam@uc.cl.
+* Maximiliano Castillo, Ayuante: 
+
+### PROGRAMAS Y HERRAMIENTAS
+
+* Github: https://github.com/ricardovv/tc22b_rvega
+
+* SublimeText 3: Editor de código HTL, CSS, y JavaScript. https://www.sublimetext.com
+
+### COLABORACIONES DE PRUEBA
 
 Este sera el repositoro para entregas en un futuro.
 
 Este es otro cambio para demostar el poder del mundo.
 
-# Stefani: Hola, este es mi primer cambio
+Stefani: Hola, este es mi primer cambio
 
 MO: Hola xd
 
 joaco: este cambio lo hice recien, ¿podemos programar hamburguesas veganas?
 
-# The ayudante
-## si, fui yo 
+The ayudante
+
+si, fui yo 
 1. si
 
 mmujica: nueva edicion
