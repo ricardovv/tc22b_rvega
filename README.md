@@ -25,3 +25,5 @@ Florencia: Hola :)
 Daniel: este es el cambio 
 
 nati: hola profe! este ramo es super entretenido
+
+Clemente: el cambio ya llego 
