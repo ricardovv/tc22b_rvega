@@ -29,3 +29,5 @@ nati: hola profe! este ramo es super entretenido
 Clemente: el cambio ya llego 
 
 Contanza Delgado: este es el cambio :)
+
+Juan Garcia estuvo aqui haolholaholahola
